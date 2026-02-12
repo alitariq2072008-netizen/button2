@@ -1,0 +1,51 @@
+*{
+    background-color: black;
+   
+    
+}
+h1{
+    color: white;
+   text-align: center;
+    
+   
+font-size: 90px;
+ 
+ 
+  padding: 15%;
+
+   
+    
+}
+br{
+  
+    
+    display: block;
+    margin: auto;
+}
+
+#p1{
+    color: white;
+    
+    font-size: 90px;
+    
+   
+  
+    padding: 5px;
+    border-radius: 3px;
+    display: block;
+    margin-left:auto ;
+  
+
+}
+#p2{
+     color: white;
+   
+    font-size: 90px;
+    
+   
+  
+    padding: 5px;
+    border-radius: 3px;
+    display: block;
+    margin-left:auto ;
+}
